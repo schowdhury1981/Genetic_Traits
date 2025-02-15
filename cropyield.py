@@ -21,6 +21,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Upload dataset
+# Upload dataset
+# Upload dataset
 def upload_and_load_data():
     from google.colab import files  # Specific to Google Colab
     print("Please upload your dataset file:")
